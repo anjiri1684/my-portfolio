@@ -284,32 +284,33 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
-    name: "Framer",
-    pos: "Lead Web Developer",
-    duration: "2022 - Present",
+    name: "Kenya Women Microfinance Bank",
+    pos: "Front End Developer",
+    duration: "December 2022 – July 2024",
     title:
-      "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
-    icon: "/assets/framer.svg",
-    animation: "victory",
-  },
-  {
-    id: 2,
-    name: "Figma",
-    pos: "Web Developer",
-    duration: "2020 - 2022",
-    title:
-      "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
+      "Collaborated closely with UX/UI designers to translate wireframes and designconcepts into high-quality, visually engaging web pages that align with the bank'sbrand guidelines. Integrated RESTful APIs and microservices, working in conjunction with back-endteams to enhance application functionality, resulting in more efficient and reliableservices for users.",
     icon: "/assets/figma.svg",
     animation: "clapping",
   },
   {
-    id: 3,
-    name: "Notion",
-    pos: "Junior Web Developer",
-    duration: "2019 - 2020",
+    id: 2,
+    name: "Tanda Ke",
+    pos: "Junior Software Developer",
+    duration: "April 2022 – November 2022",
     title:
-      "Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.",
+      "Contributed to the development and maintenance of web applications, working onboth front-end and back-end tasks to ensure seamless integration and performanceacross the application. Collaborated with cross-functional teams, including designers, product managers, andother developers, to deliver project milestones on time and within scope.",
     icon: "/assets/notion.svg",
     animation: "salute",
+  },
+  {
+    id: 3,
+    name: "",
+    pos: "Stewen Computer Garage",
+
+    duration: "November 2020 – March 2022",
+    title:
+      "Developed and executed comprehensive digital marketing strategies across multipleplatforms, driving significant increases in brand visibility, user engagement, andonline sales. Managed and optimized SEO campaigns, implementing both on-page and off-pageSEO techniques to improve search engine rankings and increase organic traffic by40%.",
+    icon: "/assets/framer.svg",
+    animation: "victory",
   },
 ];
